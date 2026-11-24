@@ -13,9 +13,9 @@
 | Jumlah pelajaran | 22 |
 | Estimasi waktu | ~23 jam |
 | Relevansi | Dasar |
-| Mulai | — |
+| Mulai | 2026-11-25 |
 | Selesai | — |
-| Status | Belum dimulai |
+| Status | Sedang dibahas (kuis belum) |
 
 ## Checklist pelajaran
 
@@ -46,10 +46,12 @@
 
 | Tanggal | Pelajaran | Inti yang dipelajari | Kuis | Catatan / hasil |
 |---|---|---|---|---|
+| 2026-11-25 | 01-linear-algebra-intuition | Vektor sebagai titik, dot product, panjang, normalisasi, cosine similarity, attention score, proyeksi, residual, Gram-Schmidt, basis orthonormal, rank | Belum | 18 latihan dicatat di `log-sesi-2026-11-25.md`; hampir semuanya benar, dua koreksi (akar kuadrat & rank) |
 
 ## Hal penting yang ingin diingat
 
-- (tambahkan rumus, intuisi, atau jebakan yang sering terlupa — tulis dengan katamu sendiri setelah benar-benar paham)
+- Log lengkap tanya-jawab: `log-sesi-2026-11-25.md` (di-commit setiap latihan).
+- Koreksi yang perlu diingat: √25 = 5 (bukan dibagi dua); dot product menghasilkan satu angka; rank [[1,2],[2,4]] = 1, bukan 2.
 
 ## Artefak yang dihasilkan
 
