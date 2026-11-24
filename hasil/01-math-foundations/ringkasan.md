@@ -46,7 +46,7 @@
 
 | Tanggal | Pelajaran | Inti yang dipelajari | Kuis | Catatan / hasil |
 |---|---|---|---|---|
-| 2026-11-25 | 01-linear-algebra-intuition | Vektor sebagai titik, dot product, panjang, normalisasi, cosine similarity, attention score, proyeksi, residual, Gram-Schmidt, basis orthonormal, rank | Belum | 18 latihan dicatat di `log-sesi-2026-11-25.md`; hampir semuanya benar, dua koreksi (akar kuadrat & rank) |
+| 2026-11-25 | 01-linear-algebra-intuition | Vektor sebagai titik, dot product, panjang, normalisasi, cosine similarity, attention score, proyeksi, residual, Gram-Schmidt, basis orthonormal, rank | 4/5 | 18 latihan + kuis dicatat di `log-sesi-2026-11-25.md`; soal nomor 5 (LoRA) salah, perlu diulang |
 
 ## Hal penting yang ingin diingat
 

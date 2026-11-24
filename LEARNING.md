@@ -38,6 +38,6 @@ Saya ingin merilis produk AI. Pada akhirnya saya ingin membangun sebuah agen. Sa
 ## Log Progres
 | Tanggal | Pelajaran | Kuis | Catatan |
 |------|--------|------|------|
-| 2026-11-25 | 1.01 Linear Algebra Intuition | Belum | 18 latihan dibahas, hampir semua benar; lihat hasil/01-math-foundations/log-sesi-2026-11-25.md |
+| 2026-11-25 | 1.01 Linear Algebra Intuition | 4/5 | 18 latihan + kuis; soal LoRA perlu diulang; lihat hasil/01-math-foundations/log-sesi-2026-11-25.md |
 
 ## Antrean Tinjauan
